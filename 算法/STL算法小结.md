@@ -1,7 +1,7 @@
 70个左右, 一个个玩一下吧.
 
 工作中最常用的: `for_each()`,  `copy()`, `max()`, `min()`, `compare(`), `swap()`, `transform()`, `reverse()`, `remove()`, `查找算法`, `排序算法`
-
+除此之外, 我也专门写了一篇长文, 去介绍 [stl算法](http://www.merlinblog.site/2017/07/29/stl-algorithm.html)
 以下对所有算法进行细致分类并标明功能:
 
 1. 查找算法(13个)：判断容器中是否包含某个值
